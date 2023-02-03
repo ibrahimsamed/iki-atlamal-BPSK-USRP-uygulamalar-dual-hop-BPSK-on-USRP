@@ -1,4 +1,4 @@
-# iki-atlamal-BPSK-USRP-uygulamalar-dual-hop-BPSK-on-USRP
+# iki-atlamalı-BPSK-USRP-uygulamalar-dual-hop-BPSK-on-USRP
 üç adet usrp ile bpsk modulasyonu kullanarak yaptığımız haberleşme sistemini anlatan bir yazı ve matlab kodlarını yüklüyorum. projemizin pdf kısmında kodlar aşamalar açıkça anlatılmaktadır.
 ayrıca matlab kodları adlı klasörde paylaştığım dosya da ise gönderici alıcı ve röle usrp leri için olan ayrı ayrı matlab kodları bulunmaktadır. 
 
